@@ -1,4 +1,4 @@
-_base_ = './voc12_20_512x512.py'
+_base_ = './voc12_st_512x512.py'
 # dataset settings
 data = dict(
     train=dict(
